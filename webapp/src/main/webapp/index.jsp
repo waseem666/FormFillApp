@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Saidemy Student Registration!</h1>
-     <h1>taj restaurant faving good name in market !</h1>
+     <h1>taj restaurant famous for  good taste name in market !</h1>
      <h1>this is my completion of project-3!</h1>
  
     <p>Please fill in this form!</p>
